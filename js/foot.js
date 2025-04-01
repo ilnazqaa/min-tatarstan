@@ -1,4 +1,4 @@
-import { translit } from './main.js';
+import { translit } from './app.js';
 export const footer = document.querySelector('footer');
 export const footerArray = ['Один', 'Два', 'Три'];
 export const ul = document.createElement('ul');

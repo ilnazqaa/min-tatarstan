@@ -1,4 +1,4 @@
-import { translit } from './main.js';
+import { translit } from './app.js';
 //exports & consts
 export const headerArray = ['Главная', 'Обратная связь', 'О нас'];
 export const header = document.querySelector('#header');

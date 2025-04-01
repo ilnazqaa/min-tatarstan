@@ -5,6 +5,7 @@ import { header } from './head.js';
 import { footer } from './foot.js';
 import { postWindow } from './post.js';
 
+//Транслит для ссылок
 export function translit(word) {
     const converter = {
       'sch': 'щ',
